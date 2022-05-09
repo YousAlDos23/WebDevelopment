@@ -1,0 +1,47 @@
+body  {
+      margin-left: 220px;
+      margin-right: 220px;
+      background: #34495E;
+      font-family: tahoma;
+      text-align: justify;
+      color: #d6c6b2;
+      text-align: center;
+    }
+
+    p  {
+      color: white;
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      border: solid;
+    }
+
+    FIELDSET {
+      margin: 20px;
+      background-color: #34495E;
+    }
+
+    .logo {
+      width: 100px;
+      height: 100px;
+      float: right; 
+    }
+
+
+    .header {
+  padding: 10px;
+  text-align: center;
+  background: #34495E;
+  font-size: 15px;
+  padding-left: 125px;
+}
+
+button , a {
+  color: black ;
+  font-size: 15px;
+  margin: 5px;
+}
